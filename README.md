@@ -1,5 +1,24 @@
-<h1 align="center">Bonjour 👋, je suis Julien</h1>
-<h3 align="center">Je suis un jeune développeur fullstack passionné par le web 🌍🌌</h3>
+<h1 align="center">Bonjour 👋,</h1>
+<h3 align="center">
+
+🔎 Je recherche activement une entreprise pour un poste de développeur web en alternance.
+
+⌚ Niveau d'expérience : 2 ans.
+
+👨‍🎓 Je suis admis à la formation OpenClassrooms : Développeur d'application - JavaScript React [Diplôme de niveau 6 ~ Bac +3/4].
+
+📅 Durée : Le contrat de professionnalisation doit se dérouler sur 24 mois, la date de démarrage est flexible.
+
+⏰ Rythme : 4 jours en entreprise / 1 jour en formation.
+
+📚 Compétences principales : 
+HTML - CSS - SASS - JAVASCRIPT - REACT - PHP - SYMFONY
+
+📍 Lieu : Limoges & alentours ou télétravail total.
+
+
+Dans l'attente d'une prise de contact et vous en remerciant par avance.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julienhltz&label=Profile%20views&color=0e75b6&style=flat" alt="julienhltz" /> </p>
 
