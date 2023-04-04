@@ -1,5 +1,6 @@
-<h2 align="left">
-Bonjour,
+<h4 align="left">Bonjour,</h4>
+<h4 align="left">
+
 
 🔎 Je recherche activement une entreprise pour un poste de développeur web en alternance.
 
