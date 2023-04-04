@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋,</h1>
-<h3 align="center">
+<h3 align="left">
 
 🔎 Je recherche activement une entreprise pour un poste de développeur web en alternance.
 
@@ -16,8 +16,6 @@ HTML - CSS - SASS - JAVASCRIPT - REACT - PHP - SYMFONY
 
 📍 Lieu : Limoges & alentours ou télétravail total.
 
-
-Dans l'attente d'une prise de contact et vous en remerciant par avance.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julienhltz&label=Profile%20views&color=0e75b6&style=flat" alt="julienhltz" /> </p>
