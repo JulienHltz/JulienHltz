@@ -1,6 +1,3 @@
-<h4 align="left">Bonjour,</h4>
-<h4 align="left">
-
 📚 Compétences principales : 
 HTML - CSS - SASS - JAVASCRIPT - REACT - PHP - SYMFONY
 
