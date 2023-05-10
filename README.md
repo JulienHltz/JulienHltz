@@ -1,21 +1,8 @@
 <h4 align="left">Bonjour,</h4>
 <h4 align="left">
 
-
-🔎 Je recherche activement une entreprise pour un poste de développeur web en alternance.
-
-⌚ Niveau d'expérience : 2 ans.
-
-👨‍🎓 Je suis admis à la formation OpenClassrooms : Développeur d'application - JavaScript React [Diplôme de niveau 6 ~ Bac +3/4].
-
-📅 Durée : Le contrat de professionnalisation doit se dérouler sur 24 mois, la date de démarrage est flexible.
-
-⏰ Rythme : 4 jours en entreprise / 1 jour en formation.
-
 📚 Compétences principales : 
 HTML - CSS - SASS - JAVASCRIPT - REACT - PHP - SYMFONY
-
-📍 Lieu : Limoges & alentours ou télétravail total.
 
 </h3>
 
